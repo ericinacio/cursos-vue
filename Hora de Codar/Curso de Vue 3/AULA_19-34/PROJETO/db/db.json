@@ -77,5 +77,57 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Eric",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Em produção",
+      "id": 1
+    },
+    {
+      "nome": "Carlos",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 2
+    },
+    {
+      "nome": "Rodrigo",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "Carla",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 4
+    },
+    {
+      "nome": "Daiane",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    }
+  ]
 }
